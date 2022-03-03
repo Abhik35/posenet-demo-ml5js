@@ -12,3 +12,5 @@ PoseNet is trained in MobileNet Architecture. MobileNet is a Convolutional neura
 The pre-trained models run in our browsers, that is what differentiates posenet from other API-dependent libraries. Hence, anyone with a limited configuration in a laptop/desktop can easily make use of such models and built good projects.
 
 Posenet gives us a total of 17 key points which we can use, right from our eye to and ears to knees and ankles
+
+live demo-https://abhik35.github.io/posenet-demo-ml5js/
